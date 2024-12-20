@@ -7,3 +7,8 @@ Uhh get notepad++ and drag the bats u wanan edit in it you should use this video
 
 Evan video for cpp minecraft: https://www.youtube.com/watch?v=v0Ks1dCMlAA
 Ebola man Smbcracker: https://github.com/EbolaMan-YT/SMB-Bruteforce
+
+Creds:
+-Ebolaman
+-WSAL Evan
+-TheBATeam
