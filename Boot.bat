@@ -22,6 +22,8 @@ echo 3) IpHax
 echo 4) CPPCraft
 echo 5) FlappyBat
 echo 6) PacBat
+echo 7) NetworkBF
+
 set /p input=Choose an option: 
 if %input%==1 start fh.bat
 if %input%==2 start ph.bat
@@ -29,6 +31,7 @@ if %input%==3 start ipcrak.bat
 if %input%==4 start CBoot.exe
 if %input%==5 start fb.bat
 if %input%==6 start pb.bat
+if input ==7 start bruteforce.cmd
 goto :eof
 
 :strap1
